@@ -1,0 +1,23 @@
+table{
+	border:1;
+	border-style:solid;
+}
+
+td{
+	border:'1';
+	border-bottom-color:black;
+}
+.vl {
+  border-left: 3px solid green;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+
+}
+</style>
+p{
+	padding: 0 auto;\
+	padding-left:30px;
+}
